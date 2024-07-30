@@ -1,10 +1,13 @@
-:root{
-    --backColor : #000;
-    --fontColor : #21E1DA;
+:root {
+    --backColor: #000;
+    --fontColor: #21E1DA;
 }
+
 body {
     background-color: var(--backColor);
+    color: var(--fontColor)
 }
-.Introduction{
+
+.Introduction {
     color: var(--fontColor);
 }
