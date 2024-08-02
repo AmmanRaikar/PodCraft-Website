@@ -11,3 +11,21 @@ body {
 .Introduction {
     color: var(--fontColor);
 }
+
+#podcraft {
+    height: 20vh;
+    border: solid white;
+}
+
+button {
+    background-color: var(white);
+    border-radius: 50px;
+    border: none;
+    padding: 10px;
+    font-size: 20px;
+}
+
+footer {
+    display: flex;
+   justify-content:end;
+}
